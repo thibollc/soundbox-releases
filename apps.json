@@ -1,0 +1,25 @@
+{
+  "name": "Soundbox",
+  "identifier": "com.yvesthibaudier.soundbox.source",
+  "subtitle": "Updates für Soundbox",
+  "iconURL": "https://raw.githubusercontent.com/thibollc/soundbox-releases/main/icon.png",
+  "tintColor": "#4C8CF2",
+  "apps": [
+    {
+      "name": "Soundbox",
+      "bundleIdentifier": "com.yvesthibaudier.soundbox",
+      "developerName": "Yves Thibaudier",
+      "subtitle": "Deine mp3s, auch im Hintergrund.",
+      "localizedDescription": "Importiere mp3-Dateien aus der Dateien-App und hör sie weiter, wenn die App geschlossen oder das iPhone gesperrt ist. Titel und Interpret lassen sich nachträglich anpassen.",
+      "iconURL": "https://raw.githubusercontent.com/thibollc/soundbox-releases/main/icon.png",
+      "tintColor": "#4C8CF2",
+      "category": "entertainment",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": []
+    }
+  ],
+  "news": []
+}
